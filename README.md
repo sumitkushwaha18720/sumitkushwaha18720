@@ -15,7 +15,7 @@
 - 🌱 Focused learning path: **Python** → **SQL** → **Pandas/NumPy** → **Scikit-learn** → **LLMs & Generative AI**
 - 📊 Passionate about **data visualization**, storytelling with data, and solving real problems
 - 🎯 Goal: Create impactful projects → Contribute to open-source → Land my first **Data Science / ML** role
-- 📍 **Bhopal, Madhya Pradesh, India**
+- 📍 **Indore, Madhya Pradesh, India**
 
 ### 🛠️ Tech Stack (Growing Fast!)
 <p align="center">
