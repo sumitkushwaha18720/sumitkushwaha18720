@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Sumit+Kushwaha;Data+Scientist+%26+AI%2FML+Enthusiast;Turning+Data+into+Insights+EveryDay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Sumit+Kushwaha;Data+Scientist+%26+AI%2FML+Enthusiast;Trning+Data+into+Insights+EveryDay" alt="Typing SVG" />
 </div>
 
 <div align="center">
