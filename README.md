@@ -29,12 +29,13 @@
 </p>
 
 ### 📊 GitHub Activity
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitkushwaha18720&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitkushwaha18720&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkushwaha18720&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkushwaha18720&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkushwaha18720&theme=dracula&hide_border=true" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkushwaha18720&theme=radical&hide_border=true" alt="Contribution Streak"/>
 </div>
 
 ### 🌟 Featured Projects (Pinned Below)
