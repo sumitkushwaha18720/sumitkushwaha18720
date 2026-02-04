@@ -19,11 +19,16 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 - 🌱 Expanding expertise in **Deep Learning**, **GenAI**, and **MLOps**
 - 💡 Love transforming complex data into actionable insights
 - 📍 Based in **Indore, Madhya Pradesh, India**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
 
 <!-- Tech Stack Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=41C3F7&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=1C1C1C&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 
 </div>
 
