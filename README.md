@@ -2,11 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Developer;Machine+Learning+%E2%80%A2+Computer+Vision;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Developer;Machine+Learning+%E2%80%A2+Computer+Vision;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🚀 About Me
 
@@ -17,6 +21,10 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 - 🌱 Expanding expertise in **Deep Learning**, **GenAI**, and **MLOps**
 - 💡 Love transforming complex data into actionable insights
 - 📍 Based in **Indore, Madhya Pradesh, India**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ---
 
@@ -47,18 +55,27 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumitkushwaha18720&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumitkushwaha18720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkushwaha18720&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkushwaha18720&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkushwaha18720&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkushwaha18720&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitkushwaha18720&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
@@ -80,13 +97,25 @@ Interactive dashboard for business intelligence
 - **Tech:** Python, Pandas, Plotly, Streamlit
 - **Highlights:** Real-time analytics, custom visualizations
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 **Data Science Specialization** - DataFlair
-- 📜 **Machine Learning Certification** - DataFlair
-- 🏅 **Kaggle Contributor** - Active in competitions
+<div align="center">
+
+| 🎓 Data Science Specialization | 📜 Machine Learning Certification | 🏅 Kaggle Contributor |
+|:---:|:---:|:---:|
+| DataFlair | DataFlair | Active in competitions |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ---
 
@@ -101,24 +130,41 @@ Interactive dashboard for business intelligence
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ---
 
 ## 💼 Open for Opportunities
 
-I'm actively seeking roles in:
-- 🤖 Machine Learning Engineer
-- 👁️ Computer Vision Engineer  
-- 📊 Data Scientist
-- 🧠 AI Developer
+<div align="center">
 
-**Let's build something amazing together!** Feel free to reach out for collaborations, projects, or just to chat about AI/ML.
+I'm actively seeking roles in:
+
+| 🤖 Machine Learning Engineer | 👁️ Computer Vision Engineer | 📊 Data Scientist | 🧠 AI Developer |
+|:---:|:---:|:---:|:---:|
+
+**Let's build something amazing together!**
+
+Feel free to reach out for collaborations, projects, or just to chat about AI/ML.
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumitkushwaha18720&label=Profile+Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sumitkushwaha18720&label=Profile+Views&color=00D9FF&style=for-the-badge)
 
-**"Turning data into intelligence, one model at a time."** 🚀
+<br/>
+
+### 💭 "Turning data into intelligence, one model at a time." 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
