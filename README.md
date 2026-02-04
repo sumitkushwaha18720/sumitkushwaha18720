@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7B801&background=FF000000¢er=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Developer+%F0%9F%9A%80;Machine+Learning+%E2%80%A2+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+Real-World+AI+Solutions+%F0%9F%A7%A0;Transforming+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00A8E8¢er&background=FF000000¢er=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Developer+%F0%9F%9A%80;Machine+Learning+%E2%80%A2+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+Real-World+AI+Solutions+%F0%9F%A7%A0;Transforming+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 ---
 
@@ -20,11 +20,14 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 - 💡 Love transforming complex data into actionable insights
 - 📍 Based in **Indore, Madhya Pradesh, India**
 
+<!-- Tech Stack Section -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=41C3F7&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+
 </div>
 
----
+<div align="center">
 
 ### 🔤 Languages & Core
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
