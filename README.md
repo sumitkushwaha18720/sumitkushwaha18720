@@ -171,6 +171,6 @@ Feel free to reach out for collaborations, projects, or just to chat about AI/ML
 
 ### 💭 "Turning data into intelligence, one model at a time." 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8DC,50:1F3C5B,100:0E1B2A&height=100&section=footer"/>
 
 </div>
