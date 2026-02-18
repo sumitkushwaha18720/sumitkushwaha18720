@@ -70,13 +70,10 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
+| 🎓 Data Science Specialization | 📜 Machine Learning Certification | 🏅 Kaggle Contributor | 🏆 Hackathon Excellence |
+|:---:|:---:|:---:|:---:|
+| DataFlair | DataFlair | Active Competitor | Participated in IIT & National-Level Hackathons • Secured Multiple Hackathon Wins |
 
-| 🎓 Data Science Specialization | 📜 Machine Learning Certification | 🏅 Kaggle Contributor |
-|:---:|:---:|:---:|
-| DataFlair | DataFlair | Active in competitions |
-
-</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
