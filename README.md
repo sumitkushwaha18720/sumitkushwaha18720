@@ -98,22 +98,6 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumitkushwaha18720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkushwaha18720&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkushwaha18720&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitkushwaha18720&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-
 ## 🎯 Featured Projects
 
 ### 🔍 [Computer Vision Pipeline](https://github.com/sumitkushwaha18720)
