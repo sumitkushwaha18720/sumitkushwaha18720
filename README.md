@@ -2,8 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1F3C5B¢er&background=FF000000¢er=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Developer+%F0%9F%9A%80;Machine+Learning+%E2%80%A2+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+Real-World+AI+Solutions+%F0%9F%A7%A0;Transforming+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1F3C5B¢er&background=FF000000¢er=true&vCenter=true&width=800&lines=Applied+AI+Architect+🚀;Agentic+AI+Systems+Builder+🤖;Production+RAG+%7C+AI+Infrastructure+⚙️;Building+Scalable+Intelligent+Systems+🧠;From+Models+→+Autonomous+Systems)](https://git.io/typing-svg)
 
 ---
 
@@ -13,12 +12,22 @@
 
 ## 🚀 About Me
 
-I'm an **AI & Data Science Developer** passionate about building intelligent systems that solve real-world problems. My focus areas include **Machine Learning**, **Computer Vision**, and **Data-Driven Solutions**.
+I'm an **Applied AI & Infrastructure Engineer** focused on building **production-grade AI systems**, not just models.
 
-- 🔭 Currently working on **AI/ML projects** with practical applications
-- 🧠 Specializing in **Computer Vision**, **ML model deployment**, and **data pipelines**
-- 🌱 Expanding expertise in **Deep Learning**, **GenAI**, and **MLOps**
-- 💡 Love transforming complex data into actionable insights
+I specialize in:
+- 🤖 **Agentic AI** — autonomous systems that reason, plan, and execute tasks
+- 📚 **Production RAG Systems** — scalable AI knowledge engines over private data
+- ⚙️ **AI Infrastructure & MLOps** — deploying reliable, high-performance AI systems
+
+## 🧠 Core Expertise
+
+- ⚡ Designing **end-to-end AI systems** (not just models)
+- 🤖 Building **agent-based workflows** with tool usage & reasoning
+- 📚 Developing **high-performance RAG pipelines**
+- ⚙️ Engineering **scalable AI infrastructure (Docker, Kubernetes, GPUs)**
+- 🚀 Optimizing systems for **latency, cost, and reliability**
+
+I work at the intersection of **Artificial Intelligence, System Design, and High-Performance Computing**.
 - 📍 Based in **Indore, Madhya Pradesh, India**
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -51,6 +60,12 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ⚙️ AI Infrastructure & Systems
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -100,21 +115,20 @@ I'm an **AI & Data Science Developer** passionate about building intelligent sys
 
 ## 🎯 Featured Projects
 
-### 🔍 [Computer Vision Pipeline](https://github.com/sumitkushwaha18720)
-End-to-end image classification system with real-time inference
-- **Tech:** PyTorch, OpenCV, Flask
-- **Highlights:** 95%+ accuracy, deployed REST API
+End-to-end **Computer Vision pipeline** with real-time inference and production-ready deployment  
+- Designed for **low-latency prediction systems**
+- Integrated API for real-world usage
+- Optimized model performance (95%+ accuracy)
 
-### 📈 [ML Model Deployment Platform](https://github.com/sumitkushwaha18720)
-Scalable platform for deploying ML models
-- **Tech:** TensorFlow, Docker, FastAPI
-- **Highlights:** Containerized models, API endpoints
+### Scalable **AI model deployment infrastructure**  
+- Containerized ML services using Docker  
+- Built REST APIs for production inference  
+- Designed for **scalability and reliability**
 
-### 🧮 [Data Analysis Dashboard](https://github.com/sumitkushwaha18720)
-Interactive dashboard for business intelligence
-- **Tech:** Python, Pandas, Plotly, Streamlit
-- **Highlights:** Real-time analytics, custom visualizations
-
+### Interactive **data intelligence system** for decision-making  
+- Real-time analytics pipeline  
+- Business-focused insights generation  
+- Dynamic and scalable visualization system
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -132,15 +146,13 @@ I'm actively seeking roles in:
 |:---:|:---:|:---:|:---:|
 
 **Let's build something amazing together!**
+**## ⚡ Engineering Philosophy
 
-Feel free to reach out for collaborations, projects, or just to chat about AI/ML.
+> "I don’t build models. I build systems that use models."
 
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
+- Systems over scripts  
+- Scale over experiments  
+- Impact over complexity  
 ---
 
 <div align="center">
@@ -149,7 +161,7 @@ Feel free to reach out for collaborations, projects, or just to chat about AI/ML
 
 <br/>
 
-### 💭 "Turning data into intelligence, one model at a time." 🚀
+### 💭 "Applied AI Engineer • ML Engineer • AI Systems Engineer • Agentic AI Developer." 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8DC,50:1F3C5B,100:0E1B2A&height=100&section=footer"/>
 
