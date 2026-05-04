@@ -2,7 +2,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1F3C5B¢er&background=FF000000¢er=true&vCenter=true&width=800&lines=Applied+AI+Architect+🚀;Agentic+AI+Systems+Builder+🤖;Production+RAG+%7C+AI+Infrastructure+⚙️;Building+Scalable+Intelligent+Systems+🧠;From+Models+→+Autonomous+Systems)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1F3C5B¢er&background=FF000000¢er=true&vCenter=true&width=800&lines=AI+Systems+Engineer+🚀;Agentic+AI+🤖;Production+ML+AI+Infrastructure+⚙️;Building+Scalable+AI+Intelligent+Systems+🧠;From+Models+→+to+real+world+impact)
 
 ---
 
@@ -12,23 +13,30 @@
 
 ## 🚀 About Me
 
-I'm an **Applied AI & Infrastructure Engineer** focused on building **production-grade AI systems**, not just models.
+I'm an AI Systems Engineer focused on building production-grade intelligent systems that solve real-world problems at scale.. My focus areas include Machine Learning, Computer Vision, and Data-Driven Solutions.
 
-I specialize in:
-- 🤖 **Agentic AI** — autonomous systems that reason, plan, and execute tasks
-- 📚 **Production RAG Systems** — scalable AI knowledge engines over private data
-- ⚙️ **AI Infrastructure & MLOps** — deploying reliable, high-performance AI systems
 
-## 🧠 Core Expertise
+  *  Build AI systems — from model development to production deployment
+  *  Expanding expertise in Deep Learning, GenAI, and MLOps
+  *  Develop RAG pipelines over private and enterprise data
+  *  Engineer scalable ML infrastructure (Docker, Kubernetes, APIs)
+  *  Optimize systems for latency, cost, and reliability
 
-- ⚡ Designing **end-to-end AI systems** (not just models)
-- 🤖 Building **agent-based workflows** with tool usage & reasoning
-- 📚 Developing **high-performance RAG pipelines**
-- ⚙️ Engineering **scalable AI infrastructure (Docker, Kubernetes, GPUs)**
-- 🚀 Optimizing systems for **latency, cost, and reliability**
+ Current Focus
+     * Agentic AI systems (autonomous workflows with reasoning & tools)
+     * Production ML & real-time inference systems
+     * Generative AI + MLOps at scale
 
-I work at the intersection of **Artificial Intelligence, System Design, and High-Performance Computing**.
-- 📍 Based in **Indore, Madhya Pradesh, India**
+** How I Build AI Systems
+   
+    Frontend → API → Model → Vector DB → Cache → Scaling Layer
+Focus:
+⚡  Low latency
+🛡️ Fault tolerance
+💰 Cost efficiency 
+
+📍 Based in **Indore, Madhya Pradesh, India**
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -43,6 +51,8 @@ I work at the intersection of **Artificial Intelligence, System Design, and High
 </div>
 
 <div align="center">
+
+
 
 ### 🔤 Languages & Core
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -88,6 +98,11 @@ I work at the intersection of **Artificial Intelligence, System Design, and High
 |:---:|:---:|:---:|:---:|
 | DataFlair | DataFlair | Active Competitor | Participated in IIT & National-Level Hackathons • Secured Multiple Hackathon Wins |
 
+👉 Open for:
+
+- Full-time roles, 
+- Freelance projects, 
+- Startup collaborations, 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -166,3 +181,5 @@ I'm actively seeking roles in:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8DC,50:1F3C5B,100:0E1B2A&height=100&section=footer"/>
 
 </div>
+
+
