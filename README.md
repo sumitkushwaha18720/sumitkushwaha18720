@@ -2,8 +2,7 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1F3C5B¢er&background=FF000000¢er=true&vCenter=true&width=800&lines=AI+Systems+Engineer+🚀;Agentic+AI+🤖;Production+ML+AI+Infrastructure+⚙️;Building+Scalable+AI+Intelligent+Systems+🧠;From+Models+→+to+real+world+impact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1F3C5B¢er&background=FF000000¢er=true&vCenter=true&width=800&lines=AI+%26+ML+Developer+🚀;;Full+Stack+Developer+💻;Building+AI-Powered+Web+Apps+🤖;Generative+AI+%26+Automation+⚡;Turning+Ideas+Into+Real+Projects+🧠)
 
 ---
 
