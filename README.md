@@ -120,44 +120,49 @@ Idea → Research → Design → Frontend → Backend → AI Models → Database
 
 # 🚀 Featured Projects
 
-## 🤖 AI Resume Analyzer
+## 🧘 Yoga & Wellness Website
 
-AI-powered ATS resume scoring system with intelligent job matching and resume analysis.
+Modern responsive WordPress website designed for yoga, wellness, and online presence management.
 
 ### Features
 
-- Resume Parsing
-- ATS Score Analysis
-- AI Suggestions
-- Job Matching
-- PDF Upload Support
+* Responsive Modern UI
+* WordPress Customization
+* SEO Optimization
+* Mobile-Friendly Design
+* Fast Performance
+* Contact & Booking Integration
 
 ### Tech Stack
 
-`FastAPI` `React` `PostgreSQL` `OpenAI API`
+`WordPress` `Elementor` `HTML` `CSS` `JavaScript`
 
-🔗 Live Demo  
-🔗 GitHub Repository
+🔗 Live Demo: https://www.sunilwithyoga.com/
 
 ---
 
-## 🧠 AI Interview Assistant
+## 🎮 KBC12 Quiz Game
 
-Real-time AI interviewer with intelligent feedback and speech recognition.
+Interactive quiz game inspired by Kaun Banega Crorepati (KBC) with engaging gameplay, responsive UI, and real-time interactions.
 
 ### Features
 
-- AI Question Generation
-- Speech-to-Text
-- Performance Analysis
-- Interactive Dashboard
+- 🎯 Interactive Quiz Gameplay
+- ⚡ Real-Time Question Flow
+- 📱 Responsive Design
+- 🎨 Modern UI/UX
+- 🔥 Smooth User Experience
+- 🚀 Fast Deployment
 
 ### Tech Stack
 
-`Next.js` `FastAPI` `Whisper` `Gemini API`
+`React` `JavaScript` `Lovable AI` `Frontend Development`
 
-🔗 Live Demo  
+🔗 Live Demo: https://kbc12.lovable.app/
+
 🔗 GitHub Repository
+
+---
 
 ---
 
