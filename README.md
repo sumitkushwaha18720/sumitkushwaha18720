@@ -276,22 +276,13 @@ Research → Planning → UI/UX → Development → AI Integration → Testing �
 
 ---
 
-# 🏅 Competitive Programming & Problem Solving
+## 🏆 Achievements & Certifications
 
-- Solving Data Structures & Algorithms problems
-- Practicing LeetCode & coding interview questions
-- Learning optimization and scalable logic building
-- Improving problem-solving speed and accuracy
+| 🎓 Data Science Specialization | 📜 Machine Learning Certification | 🏅 Kaggle Contributor | 🏆 Hackathon Excellence |
+|:---:|:---:|:---:|:---:|
+| DataFlair | DataFlair | Active Competitor | Participated in IIT & National-Level Hackathons • Secured Multiple Hackathon Wins |
 
----
 
-# 🏆 Achievements
-
-- Built AI-powered applications and modern web platforms
-- Developed machine learning and deep learning projects
-- Exploring Generative AI and Agentic AI systems
-- Participated in hackathons and technical competitions
-- Continuously learning advanced AI engineering concepts
 
 ---
 
