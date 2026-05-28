@@ -166,23 +166,29 @@ Interactive quiz game inspired by Kaun Banega Crorepati (KBC) with engaging game
 
 ---
 
-## 🎮 AI-Powered Game Project
+## 🏢 Smart Attendance Management System
 
-Interactive AI-assisted gaming experience with modern UI and real-time interactions.
+Enterprise-level attendance and workforce management platform inspired by modern HR systems like PeopleStrong.
 
 ### Features
 
-- AI-Based Gameplay Logic
-- Interactive UI
-- Real-Time Features
-- Optimized Performance
+- 👤 Employee Management
+- ⏰ Smart Attendance Tracking
+- 📍 GPS-Based Attendance
+- 📊 Analytics Dashboard
+- 📅 Leave Management
+- 🔐 Authentication & Role Access
+- 📱 Responsive Admin Panel
 
 ### Tech Stack
 
-`JavaScript` `React` `AI APIs`
+`React` `FastAPI` `PostgreSQL` `Docker` `AI APIs`
 
-🔗 Live Demo  
+🔗 Live Demo: https://waislpunchly.lovable.app/dashboard
+
 🔗 GitHub Repository
+
+---
 
 ---
 
