@@ -12,29 +12,37 @@
 
 ## 🚀 About Me
 
-I'm an AI Systems Engineer focused on building production-grade intelligent systems that solve real-world problems at scale.. My focus areas include Machine Learning, Computer Vision, and Data-Driven Solutions.
+I'm a passionate AI/ML Developer and Full-Stack Developer focused on building real-world intelligent applications, scalable web platforms, and AI-powered systems.
+- Build AI-powered applications and modern web platforms
+- Develop Machine Learning and Deep Learning projects
+- Create responsive websites, tools, and interactive applications
+- Work with APIs, databases, deployment, and cloud platforms
+- Explore Generative AI, AI Agents, and automation workflows
+- Use AI tools to rapidly prototype and build products
 
+My interests include:
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Generative AI
+- Web Development
+- Automation & Intelligent Systems
 
-  *  Build AI systems — from model development to production deployment
-  *  Expanding expertise in Deep Learning, GenAI, and MLOps
-  *  Develop RAG pipelines over private and enterprise data
-  *  Engineer scalable ML infrastructure (Docker, Kubernetes, APIs)
-  *  Optimize systems for latency, cost, and reliability
-
- Current Focus
-     * Agentic AI systems (autonomous workflows with reasoning & tools)
-     * Production ML & real-time inference systems
-     * Generative AI + MLOps at scale
+   Current Focus
+- Agentic AI Systems & Automation
+- Generative AI & LLM Applications
+- Full-Stack Web Development
+- Real-Time AI Integrations
+- Scalable AI Deployment & Production Systems
 
 ** How I Build AI Systems
    
-    Frontend → API → Model → Vector DB → Cache → Scaling Layer
-Focus:
-⚡  Low latency
-🛡️ Fault tolerance
-💰 Cost efficiency 
+Frontend → Backend API → AI/ML Model → Database → Deployment → Scaling
 
-📍 Based in **Indore, Madhya Pradesh, India**
+### Focus Areas
+- ⚡ Performance & Speed
+- 🛡️ Reliability
+- 💰 Cost Efficiency
+- 🚀 Real-World Usability
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
